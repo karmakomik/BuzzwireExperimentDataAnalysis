@@ -1,0 +1,43 @@
+Exposure Summary Table
+Generated Date: 07 December 2021
+Generated Time: 17:13:39
+Study: BuzzwireStudy
+RESPONDENT 	 STIMULUS NAME 	 EXPOSURE TIME (MS) 	 SLIDE POSITION  
+2C2901	FaceRecording-1	1447311	1	
+2C2902	FaceRecording-1	1074614	1	
+2C2903	FaceRecording-1	1419106	1	
+2C2904	FaceRecording-1	1184933	1	
+2C2905	FaceRecording-1	1143144	1	
+2C2906	FaceRecording-1	1618754	1	
+2C3001	FaceRecording-1	1456539	1	
+2C3002	FaceRecording-1	1163248	1	
+2C3003	FaceRecording-1	1237590	1	
+2C3004	FaceRecording-1	1208813	1	
+2C3005	FaceRecording-1	1334740	1	
+2C3006	FaceRecording-1	1011356	1	
+2C0101	FaceRecording-1	1101209	1	
+2C0102	FaceRecording-1	1110080	1	
+2C0103	FaceRecording-1	1402630	1	
+2C0104	FaceRecording-1	1199932	1	
+2C0105	FaceRecording-1	1292949	1	
+2C0106	FaceRecording-1	988069	1	
+2C0201	FaceRecording-1	1107154	1	
+2C0301	FaceRecording-1	1453957	1	
+2C0302	FaceRecording-1	1345361	1	
+2C0303	FaceRecording-1	1189245	1	
+2C0304	FaceRecording-1	1250094	1	
+2C0305	FaceRecording-1	1319736	1	
+2C0306	FaceRecording-1	1176977	1	
+2C0401	FaceRecording-1	1143046	1	
+2C0402	FaceRecording-1	1315021	1	
+2C0403	FaceRecording-1	1129237	1	
+2C0404	FaceRecording-1	1203616	1	
+2C0601	FaceRecording-1	1050207	1	
+2C0602	FaceRecording-1	1227280	1	
+2C0603	FaceRecording-1	1003707	1	
+2C0604	FaceRecording-1	1225453	1	
+2C0605	FaceRecording-1	1111969	1	
+2C0701	FaceRecording-1	1075085	1	
+2C0702	FaceRecording-1	1173970	1	
+2C0703	FaceRecording-1	1111644	1	
+2C0704	FaceRecording-1	1024259	1	
